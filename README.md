@@ -57,3 +57,8 @@ Details on the licensing related to this code can be found in the file [LICENSE.
 
 # Contact details
 email address: tessa.vrijhoeven@kwrwater.nl 
+
+# Acknowledgments
+This project has been funded by the WATERVERSE project of the European Union’s Horizon Europe programme under Grant Agreement no 101070262.
+
+WATERVERSE is a project that promotes the use of FAIR (Findable, Accessible, Interoperable, and Reusable) data principles to improve water sector data management and sharing.
