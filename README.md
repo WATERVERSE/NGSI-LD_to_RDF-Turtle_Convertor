@@ -1,6 +1,16 @@
-# WATERVERSE-to-Turtle
+# NGSI-LD TO RDF Turtle Docker-Based Application (Waterverse Project)
 
-# Folder structure
+
+## Table of Contents
+1. [Folder Structure](#folder-structure)
+2. [Docker Installation](#docker-installation)
+3. [Deployment](#deployement)
+4. [License](#license)
+5. [Contact Details](#contact-details)
+6. [Acknowledgments](#acknowledgments)
+
+
+## Folder structure
 The folder structure of the repository cotnaining the tool to convert JSON-LD files to ttl-syntax and/or ttl files is given below.
 ```
 WATERVERSE-TO-TURTLE
@@ -19,7 +29,7 @@ WATERVERSE-TO-TURTLE
 |---post_sample_data.py
 ```
 
-# Docker installation
+## Docker installation
 The components of the tool are packeged to through the use of Docker. Hence, the system that will be used for deploying the tool
 must have Docker installed. See more information about the installation of Docker [over here](https://docs.docker.com/desktop/setup/install/windows-install/).
 
@@ -41,7 +51,7 @@ Run the Docker container by calling
 docker run -p 80:80 turtle_converter
 ```
 
-# License
+## License
 Shield: [![MIT License][mit-shield]][mit-license]
 
 This work is licensed under the 
@@ -55,10 +65,10 @@ This work is licensed under the
 
 Details on the licensing related to this code can be found in the file [LICENSE.md](LICENSE.md)
 
-# Contact details
+## Contact details
 email address: tessa.vrijhoeven@kwrwater.nl 
 
-# Acknowledgments
+## Acknowledgments
 This project has been funded by the WATERVERSE project of the European Union’s Horizon Europe programme under Grant Agreement no 101070262.
 
 WATERVERSE is a project that promotes the use of FAIR (Findable, Accessible, Interoperable, and Reusable) data principles to improve water sector data management and sharing.
