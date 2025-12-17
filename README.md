@@ -33,7 +33,7 @@ WATERVERSE-TO-TURTLE
 The components of the tool are packeged to through the use of Docker. Hence, the system that will be used for deploying the tool
 must have Docker installed. See more information about the installation of Docker [over here](https://docs.docker.com/desktop/setup/install/windows-install/).
 
-# Deployement
+## Deployement
 This tool is a docker based service. The api.py contains the API that processes the incoming request (JSON-LD file) and returns the desired
 Turtle-syntax. A Docker container with this API can be build by first navigating to the directory where the api.py is located:
 
